@@ -1,0 +1,29 @@
+html{
+  height:2000px;
+}
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    position: relative;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.err-msg{
+  background-color:white;
+  position: relative;
+  color: gray;
+  font-size:20px;
+ text-align: center;
+  width:100%;
+  padding-top:0;
+}
